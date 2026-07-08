@@ -1,8 +1,8 @@
 {
   "functions": {
     "api/render.js": {
-      "maxDuration": 300,
-      "memory": 3009
+      "maxDuration": 60,
+      "memory": 2048
     }
   }
 }
